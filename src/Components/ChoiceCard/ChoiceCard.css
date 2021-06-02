@@ -1,0 +1,10 @@
+.choice-card {
+    margin: 40px;
+    /* padding: 20px; */
+    border-radius: 25px;
+    color: #97a75e;
+    /* font-size: 2em; */
+    text-transform: uppercase;
+    background-color: #fefae0;
+    border: 5px dashed #ccd5ae;
+}
